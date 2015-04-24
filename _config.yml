@@ -1,1 +1,5 @@
+username: l0v3y0y
 baseurl: /jekyll_demo
+markdown: redcarpet
+safe: false
+pygments: true
